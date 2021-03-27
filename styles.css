@@ -1,0 +1,28 @@
+*{ 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background: rgb(246, 242, 242);
+}
+
+
+.col-sm-4 {
+    width: 100px;
+    height: 100px;
+    background: goldenrod;
+    border: 1px solid  rgb(88, 170, 88);
+}
+
+.col-md-4 {
+    border: 1px solid  rgb(88, 170, 88); 
+}
+
+.col-md-6 {
+    border: 1px solid  rgb(88, 170, 88); 
+}
+
+.col-md-8 {
+    border: 1px solid  rgb(88, 170, 88);
+}
+
+.col-sm-12, .col-md-6, .col-sm-8{
+    background: coral;
+}
